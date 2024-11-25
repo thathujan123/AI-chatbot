@@ -28,7 +28,7 @@ async function sendMessage() {
           ],
         }),
       }
-    );
+    );l
 
     if (!response.ok) {
      
